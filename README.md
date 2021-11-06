@@ -1,15 +1,15 @@
-### Hi, I'm Gina 👋🏽 👩🏽‍💻
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ginaflores&label=visitor%20&color=ac6aad&style=plastic" alt="ginaflores" /><br><br>
+## Hi, I'm Gina 👋🏽 👩🏽‍💻
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ginaflores&label=Visitors%20&color=ac6aad&style=plastic" alt="ginaflores" /><br><br>
 
 <img align="center" src="https://pbs.twimg.com/profile_banners/1314945224578400262/1636158564/1500x500" alt="banner that says Gina Gonzales Flores - Front-End Developer, creator of functional and intuitive web applications">
 
 <!-- <p>I am a front-end developer who is passionate about making open source contribution more accessible, creating user-friendly applications to make it easier for people to use it.<p> -->  
 
-### Languages and Tools:
+## Languages and Tools:
 
-<br><br>  
+<br> 
 <div  align="center"> 
-  <img align="right" height="145em" src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif"></img>
+  <img align="right" height="160em" width="250em" src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif"></img>
   <p align="justify">
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
