@@ -23,7 +23,10 @@
   <img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=ffff" alt="Canva logo" title="Canva" height="25" />
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=ffff" alt="CodePen logo" title="CodePen" height="25" />
-  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=ffff" alt="Angular logo" title="Angular" height="25" />
+  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=E34F26" alt="Angular logo" title="Angular" height="25" />
+  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=ffff" alt="Sass logo" title="Sass" height="25" />
+  <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=ffff" alt="typescript logo" title="typescript" height="25" />
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=ffff" alt="bootstrap logo" title="bootstrap" height="25" />
   </p>
 </div>
 <br><br>
